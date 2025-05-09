@@ -1,0 +1,6 @@
+event_id,timestamp,user,activity_type,file_name,file_size,action
+1,2025-05-07T10:00:00,alice,file-transfer,confidential_report.pdf,15MB,download
+2,2025-05-07T10:05:00,bob,login,NA,NA,login-success
+3,2025-05-07T10:10:00,charlie,file-access,employee_data.xlsx,5MB,view
+4,2025-05-07T10:15:00,dave,file-transfer,internal_memo.docx,1MB,upload
+5,2025-05-07T10:20:00,alice,file-transfer,classified_strategy.pdf,25MB,download
