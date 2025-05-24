@@ -12,12 +12,16 @@ This project simulates potential data exfiltration and leakage scenarios by gene
 ## Usage
 1. Open the project in GitHub Codespaces or use the web editor.
 2. Install dependencies with:
+```
 pip install -r requirements.txt
-
+```
 3. Run the simulator:
+```
 python src/main.py
+```
 
 ## Repository Structure
+```
 dlp-policy-simulator/
 ├── README.md
 ├── requirements.txt
@@ -32,4 +36,4 @@ dlp-policy-simulator/
     ├── risk_scoring.py
     ├── alert_system.py
     └── report_generator.py
-
+```
